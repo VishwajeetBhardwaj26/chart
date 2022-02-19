@@ -1,0 +1,8 @@
+
+.container{
+  display: flex;
+}
+.row{
+  display: flex;
+  margin-top: 3rem;
+}
